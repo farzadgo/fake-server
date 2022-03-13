@@ -1,0 +1,14 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "my fake server with fake database",
+  "main": "server.js",
+  "scripts": { 
+    "start": "node server.js"
+  },
+  "author": "Farzad Golghasemi",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
