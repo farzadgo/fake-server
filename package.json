@@ -2,7 +2,7 @@
   "name": "fake-server",
   "version": "1.0.0",
   "description": "my fake server with fake database",
-  "main": "server.ts",
+  "main": "server.js",
   "scripts": {
     "start": "node dist/server.js",
     "build": "tsc",
