@@ -1,5 +1,5 @@
 
-## My fake REST API With JSON Server and TypeScript
+## My fake REST API With JSON Server
 
 Deployed on Heroku, accessible online [here](https://fago-fake-server-app.herokuapp.com/)
 
