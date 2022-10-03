@@ -5,7 +5,8 @@
   "main": "server.ts",
   "scripts": {
     "start": "node dist/server.js",
-    "build": "tsc"
+    "build": "tsc",
+    "postinstall": "npm run build"
   },
   "author": "Farzad Golghasemi",
   "license": "ISC",
